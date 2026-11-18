@@ -2,7 +2,6 @@
 
 An end-to-end, reproducible machine-learning pipeline that predicts which subscription customers are likely to churn. It downloads the data from Kaggle, cleans it, builds a leak-free scikit-learn preprocessing pipeline, compares four classifiers, saves the best one, and serves predictions from the command line.
 
-![CI](https://github.com/<your-username>/customer-churn-prediction/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
